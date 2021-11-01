@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @C00p3rb123
 - 👀 I’m interested in artificial intelligence, data science, software development and blockchain. 
 - 🌱 I’m currently learning Computer Science at the Queensland University of Technology
-- 💞️ I’m looking to collaborate o
 - 📫 How to reach me: cooperbenno@gmail.com
 
 <!---
