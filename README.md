@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C00p3rb123
-- 👀 I’m interested in artificial intelligence, data science, software development and blockchain. 
+- 👀 I’m interested in data science, software development and blockchain. 
 - 🌱 I’m currently learning Computer Science at the Queensland University of Technology
-- 📫 How to reach me: cooperbenno@gmail.com
+- 📫 How to reach me: bennisoncooper@gmail.com
 
 <!---
 C00p3rb123/C00p3rb123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
