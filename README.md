@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C00p3rb123
 - 👀 I’m interested in data science, software development and blockchain technology. 
-- 🌱 I’m currently learning Computer Science at the Queensland University of Technology
+- 🌱 I’m currently studying Computer Science at the Queensland University of Technology
 - 📫 How to reach me: cooperbennison20@gmail.com/cooper.bennison@dltx.io
 
 <!---
